@@ -12,7 +12,7 @@ namespace GistIdeInformation
 		{
 			get
 			{
-				return PropertyService.Get(gitHubUserName, "");
+				return PropertyService.Get(gitHubUserName, "Concreteguy75");
 			}
 			internal set
 			{
